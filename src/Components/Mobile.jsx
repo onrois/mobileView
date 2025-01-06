@@ -1,5 +1,4 @@
 import React from "react";
-import { MdKeyboardArrowLeft } from "react-icons/md";
 import Cards from "./Cards";
 
 const Mobile = () => {
@@ -10,7 +9,6 @@ const Mobile = () => {
           <div className=" pt-4 pr-4 pl-4  bg-radial-top">
             <div className="flex justify-between items-center m-4 ">
               <div>
-                <MdKeyboardArrowLeft className="text-white text-2xl" />
               </div>
               <div className="w-[50%] h-1 items-center bg-black ml-4 mr-4 rounded-full">
                 <div className="w-[80%] h-full bg-white rounded-full"></div>
